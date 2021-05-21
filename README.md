@@ -21,7 +21,7 @@
 </p>
 
 <!-- Apresentação -->
-### <img src="/icons-readme/hello.gif" width="30px"> Olá, Meu Nome é Guilherme José Pessato
+### <img src="/icons-readme/hello.gif" width="30px"> Olá, meu nome é Guilherme José Pessato
 
 ---
 
