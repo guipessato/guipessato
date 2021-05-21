@@ -15,7 +15,7 @@
   </a>
   &nbsp;
   <!-- Badge - Outlook -->
-  <a href="mailto:guipessato00@gmail.com">
+  <a href="mailto:gui_pessato@hotmail.com">
     <img src="https://img.shields.io/badge/-Outlook-blue">
   </a>
 </p>
