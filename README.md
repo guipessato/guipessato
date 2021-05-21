@@ -53,8 +53,12 @@
 <p align="left">
   <!-- HTML Icon -->
   <img src="/icons-readme/html.png">&nbsp;
-<!-- CSS Icon -->
+  <!-- CSS Icon -->
   <img src="/icons-readme/css.png">&nbsp;
+  <!-- Bootstrap Icon -->
+  <img src="/icons-readme/bootstrap.png">&nbsp;
+  <!-- XD Icon -->
+  <img src="/icons-readme/xd.png">&nbsp;
 </p>
 
 ---
