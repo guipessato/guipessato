@@ -66,8 +66,8 @@
 ---
 
 <table align='left'>
-  <row style="border: none;">
-    <td style="border: none;">
+  <row>
+    <td>
      <!-- Card -->
       <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=guipessato&layout=compact&theme=dark'>
     </td>
