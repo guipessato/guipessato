@@ -31,6 +31,8 @@
 <p align="left">
   <!-- JS Icon -->
   <img src="/icons-readme/js.png">&nbsp;
+  <!-- jQuery Icon -->
+  <img src="/icons-readme/jquery.png">&nbsp;
   <!-- Git Icon -->
   <img src="/icons-readme/git.png">&nbsp;
 </p>
