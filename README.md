@@ -66,12 +66,12 @@
 ---
 
 <table align='left'>
-  <row>
-    <td>
+  <row style="border: none;">
+    <td style="border: none;">
      <!-- Card -->
       <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=guipessato&layout=compact&theme=dark'>
     </td>
-    <td>
+    <td style="border: none;">
       <img height='172' src='https://github-readme-stats.vercel.app/api?username=guipessato&show_icons=true&theme=dark'>
     </td>
   </row>
