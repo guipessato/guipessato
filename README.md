@@ -40,8 +40,6 @@
 <p align="left">
   <!-- React Icon -->
   <img src="/icons-readme/react.png">&nbsp;
-  <!-- NodeJS Icon -->
-  <img src="/icons-readme/nodejs.png">&nbsp;
   <!-- TS Icon -->
   <img src="/icons-readme/ts.png">&nbsp;
 </p>
