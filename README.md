@@ -31,8 +31,6 @@
 <p align="left">
   <!-- JS Icon -->
   <img src="/icons-readme/js.png">&nbsp;
-  <!-- jQuery Icon -->
-  <img src="/icons-readme/jquery.png">&nbsp;
   <!-- Git Icon -->
   <img src="/icons-readme/git.png">&nbsp;
 </p>
@@ -42,8 +40,6 @@
 <p align="left">
   <!-- React Icon -->
   <img src="/icons-readme/react.png">&nbsp;
-  <!-- RN Icon -->
-  <img src="/icons-readme/rn.png">&nbsp;
   <!-- NodeJS Icon -->
   <img src="/icons-readme/nodejs.png">&nbsp;
   <!-- TS Icon -->
@@ -59,6 +55,8 @@
   <img src="/icons-readme/css.png">&nbsp;
   <!-- Bootstrap Icon -->
   <img src="/icons-readme/bootstrap.png">&nbsp;
+   <!-- jQuery Icon -->
+  <img src="/icons-readme/jquery.png">&nbsp;
   <!-- XD Icon -->
   <img src="/icons-readme/xd.png">&nbsp;
 </p>
