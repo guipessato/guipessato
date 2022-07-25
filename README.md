@@ -31,6 +31,8 @@
 <p align="left">
   <!-- JS Icon -->
   <img src="/icons-readme/js.png">&nbsp;
+  <!-- React Icon -->
+  <img src="/icons-readme/react.png">&nbsp;
   <!-- Git Icon -->
   <img src="/icons-readme/git.png">&nbsp;
 </p>
@@ -38,8 +40,6 @@
 **Tenho interesse:**
 
 <p align="left">
-  <!-- React Icon -->
-  <img src="/icons-readme/react.png">&nbsp;
   <!-- TS Icon -->
   <img src="/icons-readme/ts.png">&nbsp;
 </p>
