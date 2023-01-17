@@ -61,7 +61,7 @@
 
 ---
 
-<table align='left'>
+<table align='left' style='display:none;'>
   <row>
     <td>
      <!-- Card -->
