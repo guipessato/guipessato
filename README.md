@@ -4,7 +4,7 @@
 
 - 💡 Explorando continuamente novas tecnologias e criando soluções de software inovadoras.
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela FATEC, com especialização em Desenvolvimento Front-end pelo IGTI - XP Educação.
-- 💼 Atuando como Tech Lead e Desenvolvedor Front-end na Box Ideias.
+- 💼 Atuando como Professor na Etec Antônio Devisate e Tech Lead, desenvolvedor Front-end na Box Martech.
 - 🌱 Estudando ReactJS e NextJS.
 
 ## Minhas Skills
