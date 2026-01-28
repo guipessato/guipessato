@@ -1,61 +1,66 @@
-![](https://komarev.com/ghpvc/?username=guipessato&color=222222)
+![](https://komarev.com/ghpvc/?username=guipessato&color=333333)
+
+### Desenvolvedor Front-end focado em experiências modernas e performáticas para web.
 
 ## Sobre mim
 
-- 💡 Explorando continuamente novas tecnologias e criando soluções de software inovadoras.
+- 💡 Explorando continuamente novas tecnologias e criando soluções de software.
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela FATEC, com especialização em Desenvolvimento Front-end pelo IGTI - XP Educação.
-- 💼 Atuando como Professor na Etec Antônio Devisate e desenvolvedor Front-end.
-- 🌱 Estudando ReactJS e NextJS.
+- 💼 Desenvolvedor Front-end, Professor universitário na FATEC Marília e Unimar, e Professor na Etec Antônio Devisate.
+
+<a href="https://github.com/guipessato">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guipessato&theme=tokyonight&show_icons=true" />
+</a>
+
+---
+
+## Atualmente
+- 🛒 Atuando no desenvolvimento front-end de e-commerces
+- ⚛️ Foco em aplicações com React e Next.js  
+- 🧠 Estudando arquitetura front-end e performance  
+- 👨‍🏫 Atuação no ensino técnico e superior  
+
+---
 
 ## Minhas Skills
 
-**Tecnologias**
+### 🚀 Tecnologias
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
-![SASS](https://img.shields.io/badge/-LESS-333333?style=flat&logo=LESS)
-![Stylus](https://img.shields.io/badge/-Stylus-333333?style=flat&logo=stylus)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![JavaScript](https://img.shields.io/badge/-jQUery-333333?style=flat&logo=jquery)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![React](https://custom-icon-badges.demolab.com/badge/React-61DAFB.svg?logo=react&logoColor=000)
+![Next.js](https://custom-icon-badges.demolab.com/badge/Next.js-000000.svg?logo=next.js&logoColor=white)
+![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=000)
+![HTML](https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://custom-icon-badges.demolab.com/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
+![Tailwind](https://custom-icon-badges.demolab.com/badge/Tailwind-06B6D4.svg?logo=tailwindcss&logoColor=white)
+![Bootstrap](https://custom-icon-badges.demolab.com/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
+![SASS](https://custom-icon-badges.demolab.com/badge/SASS-CC6699.svg?logo=sass&logoColor=white)
+![LESS](https://custom-icon-badges.demolab.com/badge/LESS-1D365D.svg?logo=less&logoColor=white)
+![Stylus](https://custom-icon-badges.demolab.com/badge/Stylus-333333.svg?logo=stylus&logoColor=white)
+![Vue.js](https://custom-icon-badges.demolab.com/badge/Vue.js-4FC08D.svg?logo=vue.js&logoColor=white)
+![PHP](https://custom-icon-badges.demolab.com/badge/PHP-777BB4.svg?logo=php&logoColor=white)
+![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
 
-**Utilidades**
+### 🧰 Utilidades
 
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Postman](https://custom-icon-badges.demolab.com/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)
 
-**DevOps**
+### ⚙️ DevOps
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Git](https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?logo=git&logoColor=white)
+![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white)
+![Bitbucket](https://custom-icon-badges.demolab.com/badge/Bitbucket-0052CC.svg?logo=bitbucket&logoColor=white)
 
-**Ferramentas de desenvolvimento**
+### 🛠️ Ferramentas
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobe-photoshop)
+![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078D4.svg?logo=vsc&logoColor=white)
+![Jira](https://custom-icon-badges.demolab.com/badge/Jira-0052CC.svg?logo=jira&logoColor=white)
+![Trello](https://custom-icon-badges.demolab.com/badge/Trello-0052CC.svg?logo=trello&logoColor=white)
+![Figma](https://custom-icon-badges.demolab.com/badge/Figma-F24E1E.svg?logo=figma&logoColor=white)
+![Adobe%20XD](https://custom-icon-badges.demolab.com/badge/Adobe%20XD-FF61F6.svg?logo=adobexd&logoColor=white)
+![Photoshop](https://custom-icon-badges.demolab.com/badge/Photoshop-31A8FF.svg?logo=adobephotoshop&logoColor=white)
 
-**Plataformas Ecommerce**
+### 🛒 Plataformas de E-commerce
 
-![VTEX](https://img.shields.io/badge/-VTEX-333333?style=flat&logo=vtex)
-![Shopify](https://img.shields.io/badge/-Shopify-333333?style=flat&logo=shopify&logoColor=fff)
-![Tray](https://img.shields.io/badge/-Tray-333333?style=flat&logo=Tray)
-![Tray](https://img.shields.io/badge/-Mercado%20Shops-333333?style=flat&logo=mercadolibre)
-
-
-<br/>
-
-<a href="https://github.com/guipessato" title="Perfil do guipessato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guipessato&theme=dracula&show_icons=true" />
-</a>
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-Guilherme%20Pessato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/guipessato/)](https://www.linkedin.com/in/guipessato/)
-[![Gmail Badge](https://img.shields.io/badge/-gui_pessato@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gui_pessato@hotmail.com)](mailto:gui_pessato@hotmail.com)
-[![GitHub](https://img.shields.io/github/followers/guipessato?label=follow&style=social)](https://github.com/guipessato)
+![VTEX](https://custom-icon-badges.demolab.com/badge/VTEX-ED1C24.svg?logo=vtex&logoColor=white)
+![Shopify](https://custom-icon-badges.demolab.com/badge/Shopify-7AB55C.svg?logo=shopify&logoColor=white)
+![Tray](https://custom-icon-badges.demolab.com/badge/Tray-1572B6.svg)
