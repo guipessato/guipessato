@@ -17,11 +17,11 @@
 
 | | |
 |---|---|
-| 🎓 **Formação** | Análise e Desenvolvimento de Sistemas (FATEC) · Especialização em Desenvolvimento Front-end (IGTI / XP Educação) |
-| 💼 **Atuação** | Desenvolvedor Front-end de e-commerces · Professor universitário (FATEC Marília, Unimar) · Professor (Etec Antônio Devisate) |
+| 🎓 **Formação** | Análise e Desenvolvimento de Sistemas (FATEC) · Especialização em Desenvolvimento Front-end (IGTI) |
+| 💼 **Atuação** | Desenvolvedor Front-end de e-commerces · Professor universitário (FATEC Marília, Unimar) |
 | ⚛️ **Foco** | Aplicações com React e Next.js |
 | 🧠 **Estudos** | Arquitetura front-end e performance |
-| 🔭 **Hoje** | Explorando continuamente novas tecnologias |
+| 🔭 **Hoje** | Explorando novas tecnologias |
 
 ---
 
